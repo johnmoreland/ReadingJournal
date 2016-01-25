@@ -1,0 +1,8 @@
+# This gitignore file specifies files that should not be tracked by git.
+# It will prevent them from appearing when you run 'git status'.
+#
+# See https://git-scm.com/docs/gitignore
+# and https://help.github.com/articles/ignoring-files/ for more
+
+# Do not track/commit the hidden Jupyter notebook checkpoint folder
+.ipynb_checkpoints
